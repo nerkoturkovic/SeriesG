@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F74D9</color>
+    <color name="colorPrimaryDark">#034485</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#ffc7c7cb</color>
+    <color name="textColorBlack">#000000</color>
+    <color name="windowBackground">#37474F</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#607D8B</color>
+    <color name="cardBackgroundColor">#546E7A</color>
+    <color name="semiTransparentBlack">#99000000</color>
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SeriesG</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="search_button">Search button</string>
+    <string name="search">Search</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_list_icon">Menu List Icon</string>
+
+    <string name="no_items_found">No items found.</string>
+    <string name="series_empty">Use the search icon to find series</string>
+    <string name="movies_empty">Use the search icon to find movies</string>
+
+    <string name="search_hint">Search</string>
+
+    <string name="network_not_available">Netowork is not available.</string>
+    <string name="ok">Accept</string>
+    <string name="loading">Loading</string>
+
+    <string name="powered_tmdb">Powered by TMDB</string>
+
+    <string name="first_air_date">First air date</string>
+    <string name="release_date">Release date</string>
+    <string name="rating">Rating</string>
+    <string name="genres">Genres</string>
+    <string name="front_face">Front face</string>
+    <string name="favorite">Favorite</string>
+    <string name="seen">Seen</string>
+    <string name="minutes">min.</string>
+    <string name="season">Season</string>
+
+    <string name="tv_marked_following">You are now following this serie</string>
+    <string name="tv_marked_not_following">You are not following this serie anymore</string>
+    <string name="film_marked_seen">Film marked as seen</string>
+    <string name="film_marked_not_seen">Film marked as not seen</string>
+    <string name="tv_favorite">Serie added to favorites</string>
+    <string name="tv_not_favorite">Serie removed from favorites</string>
+    <string name="produced_by">Produced by:</string>
+    <string name="no_episodes_yet">No episodes yet</string>
+    <string name="in_construction">Not available yet</string>
+
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <array name="menu_options">
+        <item>TV Series</item>
+        <item>Movies</item>
+        <item>Comics</item>
+        <item>Settings</item>
+    </array>
+
+    <array name="search_types">
+        <item>TV Series</item>
+        <item>Films</item>
+    </array>
+
+    <array name="serie_detail">
+        <item>Overview</item>
+        <item>Seasons</item>
+    </array>
+</resources>
